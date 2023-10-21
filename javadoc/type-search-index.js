@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mydeveloperplanet.myjava21planet","l":"Snippets"}];updateSearchResults();
